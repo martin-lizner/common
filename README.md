@@ -1,1 +1,1 @@
-# common
+## Common resources for projects
