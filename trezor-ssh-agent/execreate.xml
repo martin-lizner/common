@@ -12,6 +12,7 @@
   <supportUrl>https://github.com/martin-lizner/trezor-ssh-agent</supportUrl>
   <stayAlive>false</stayAlive>
   <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
   <icon>..\..\trezor-ssh-agent\src\main\resources\icon.ico</icon>
   <jre>
     <path></path>
@@ -24,11 +25,11 @@
   </jre>
   <versionInfo>
     <fileVersion>1.0.0.0</fileVersion>
-    <txtFileVersion>2016-03-20</txtFileVersion>
+    <txtFileVersion>2016-03-25</txtFileVersion>
     <fileDescription>Trezor SSH Agent</fileDescription>
     <copyright>Martin Lizner</copyright>
     <productVersion>1.0.0.0</productVersion>
-    <txtProductVersion>2016-03-20</txtProductVersion>
+    <txtProductVersion>2016-03-25</txtProductVersion>
     <productName>Trezor SSH Agent</productName>
     <companyName>Martin Lizner</companyName>
     <internalName>Trezor SSH Agent</internalName>
