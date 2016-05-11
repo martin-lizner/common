@@ -25,11 +25,11 @@
   </jre>
   <versionInfo>
     <fileVersion>1.0.2.0</fileVersion>
-    <txtFileVersion>2016-05-04</txtFileVersion>
+    <txtFileVersion>2016-05-11</txtFileVersion>
     <fileDescription>Trezor SSH Agent</fileDescription>
     <copyright>Martin Lizner</copyright>
     <productVersion>1.0.2.0</productVersion>
-    <txtProductVersion>2016-05-04</txtProductVersion>
+    <txtProductVersion>2016-05-11</txtProductVersion>
     <productName>Trezor SSH Agent</productName>
     <companyName>Martin Lizner</companyName>
     <internalName>Trezor SSH Agent</internalName>
