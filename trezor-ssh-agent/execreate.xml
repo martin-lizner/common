@@ -2,7 +2,7 @@
 <launch4jConfig>
   <dontWrapJar>false</dontWrapJar>
   <headerType>gui</headerType>
-  <jar>..\..\trezor-ssh-agent\target\trezor-ssh-agent-1.0.2.jar</jar>
+  <jar>..\..\trezor-ssh-agent\target\trezor-ssh-agent-1.0.4.jar</jar>
   <outfile>..\..\trezor-ssh-agent\target\TrezorSSHAgent.exe</outfile>
   <errTitle></errTitle>
   <cmdLine></cmdLine>
@@ -18,18 +18,18 @@
     <path></path>
     <bundledJre64Bit>false</bundledJre64Bit>
     <bundledJreAsFallback>false</bundledJreAsFallback>
-    <minVersion>1.7.0</minVersion>
+    <minVersion>1.8.0</minVersion>
     <maxVersion></maxVersion>
     <jdkPreference>preferJre</jdkPreference>
     <runtimeBits>64/32</runtimeBits>
   </jre>
   <versionInfo>
-    <fileVersion>1.0.2.0</fileVersion>
-    <txtFileVersion>2016-05-11</txtFileVersion>
+    <fileVersion>1.0.4.0</fileVersion>
+    <txtFileVersion>2016-12-17</txtFileVersion>
     <fileDescription>Trezor SSH Agent</fileDescription>
     <copyright>Martin Lizner</copyright>
-    <productVersion>1.0.2.0</productVersion>
-    <txtProductVersion>2016-05-11</txtProductVersion>
+    <productVersion>1.0.4.0</productVersion>
+    <txtProductVersion>2016-12-17</txtProductVersion>
     <productName>Trezor SSH Agent</productName>
     <companyName>Martin Lizner</companyName>
     <internalName>Trezor SSH Agent</internalName>
